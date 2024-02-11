@@ -32,4 +32,4 @@ From the examples, we can see that our decision depends on the first two chosen 
 
 # Code
 
-[Open File]('./sum-string.js)
+[Open File]('sum-string.js)
