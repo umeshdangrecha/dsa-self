@@ -1,4 +1,4 @@
 # Problems
 
 - Backtracking
-  - [Sum String]('src/backtracking/SumString)
+  - [Sum String](src/backtracking/SumString)
